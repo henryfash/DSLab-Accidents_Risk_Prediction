@@ -1,0 +1,4 @@
+Models,Precision,Recall,F1
+ETC,0.89,0.94,0.91
+GBC,0.89,0.95,0.92
+DAP,0.88,0.96,0.92
